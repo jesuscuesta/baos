@@ -1,5 +1,41 @@
 # Baos
 
+Este proyecto buscaremos generar una plantilla para que las diferentes comunidades tecnológicas, puedan tener su web fácilmente y personalizable
+
+## Pasos
+
+Vamos a describir los pasos que vamos a querer llevar a cabo para realizar este proyecto.
+
+Primero definir un MVP.
+
+Segundo, ampliar con más secciones y funcionalidades
+
+### MVP
+
+- cabecera
+  
+- footer
+
+- body
+
+- Sección home: banner, tres bullets
+
+- json donde poner esos datos, imágenes, y enlaces, plantilla elegida, equipo organizador...
+
+### Avanzadas
+
+- Más componentes de diseños
+
+- Diseños personalizados
+
+- PWA
+
+- AMP
+
+- Poner Blog
+
+## Technical
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
