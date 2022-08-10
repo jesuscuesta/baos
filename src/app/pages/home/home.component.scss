@@ -1,0 +1,23 @@
+.content {
+  text-align: center;
+}
+
+.title {
+  color: #FFC03A;
+  font-size: 3em;
+}
+
+.background-colour {
+  background-color: #FFC03A;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.background-colour .texto {
+  width: 300px;
+}
+
+.background-colour .imagen img {
+  width: 300px;
+}
